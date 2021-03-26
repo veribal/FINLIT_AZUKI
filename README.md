@@ -1,16 +1,41 @@
-# FinLit
+# FinLit | AZUKI
+## A MOBILE APPLICATION USING FLUTTER
 
-A new Flutter project.
+``` ==========================
+```
 
-## Getting Started
+##### FinLit is an app designed to promote quality financial education and instill financial literacy among its users in an engaging manner. The application follows a game-based learning approach to teach users financial literacy.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- FinLit Game where it teaches users the concepts of financial literacy through a game-based approach.
+- Stock Market Simulation where users can play around the stock market using virtual money.
+- Info Corner where users get to see up-to-date news from local and global events.
+- Forum where users can become part of a community that aims to promote financial education.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech
+
+FinLit uses two Google tech to work properly:
+
+- [FLUTTER] - framework used to build applications in a single codebase.
+- [FIREBASE AUTH] - a back-end technology used to authenticate users.
+
+
+## Installation
+
+Clone the github repo: 
+```
+git clone https://github.com/veribal/FINLIT_AZUKI.git
+```
+
+Run ```flutter pub get```
+
+### AVP Link
+> https://www.youtube.com (to be added)
+
+### Document Proposal
+
+
+### Hi-Fidelity Mockups
+> Can be found in the root_folder/ (to be added)
