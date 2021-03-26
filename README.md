@@ -8,6 +8,7 @@
 
 # NOTE
 - This project works best on Flutter 1.22.6, other than that (later versions), it would cause the project to not run and work. Please consider downgrading.
+- To get the best experience, run the program on an Android Emulator Pixel_3a_xl or any devices with 1080 x 2160 resolution.
 
 
 ## Features
