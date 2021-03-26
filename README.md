@@ -31,6 +31,9 @@ git clone https://github.com/veribal/FINLIT_AZUKI.git
 
 Run ```flutter pub get```
 
+# NOTE
+This project works best on Flutter 1.22.6, other than that, it would cause the project to not run and work.
+
 ### Document Proposal
 > You can also use the link: https://docs.google.com/document/d/1V4zpJ7ckBMIlKStSnmQOx1st1le2JmnTe-5FkInCuQ8/edit?usp=sharing
 
@@ -39,4 +42,5 @@ Run ```flutter pub get```
 > https://www.figma.com/file/xRegiZEiNCDtO7bbJ0J4aA/Mobile-UI-kit-(Community)?node-id=0%3A1
 #### Note
 > If you want to try the game, please start on Frame 53 of our Hi-Fidelity Mockups.
+ 
 
