@@ -31,11 +31,8 @@ git clone https://github.com/veribal/FINLIT_AZUKI.git
 
 Run ```flutter pub get```
 
-### AVP Link
-> https://www.youtube.com (to be added)
-
 ### Document Proposal
-> Please use the link: 
+> You can also use the link: https://docs.google.com/document/d/1V4zpJ7ckBMIlKStSnmQOx1st1le2JmnTe-5FkInCuQ8/edit?usp=sharing
 
 
 ### Hi-Fidelity Mockups
