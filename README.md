@@ -7,7 +7,7 @@
 ##### FinLit is an app designed to promote quality financial education and instill financial literacy among its users in an engaging manner. The application follows a game-based learning approach to teach users financial literacy.
 
 # NOTE
-- This project works best on Flutter 1.22.6, other than that, it would cause the project to not run and work.
+- This project works best on Flutter 1.22.6, other than that (later versions), it would cause the project to not run and work. Please consider downgrading.
 
 
 ## Features
