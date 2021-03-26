@@ -38,4 +38,7 @@ Run ```flutter pub get```
 
 
 ### Hi-Fidelity Mockups
-> Can be found in the root_folder/ (to be added)
+#### Note
+> If you want to try the game, please start on Frame 53 of our Hi-Fidelity.
+> 
+
