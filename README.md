@@ -21,7 +21,6 @@ FinLit uses two Google tech to work properly:
 - [FLUTTER] - framework used to build applications in a single codebase.
 - [FIREBASE AUTH] - a back-end technology used to authenticate users.
 
-
 ## Installation
 
 Clone the github repo: 
@@ -32,7 +31,7 @@ git clone https://github.com/veribal/FINLIT_AZUKI.git
 Run ```flutter pub get```
 
 # NOTE
-This project works best on Flutter 1.22.6, other than that, it would cause the project to not run and work.
+### This project works best on Flutter 1.22.6, other than that, it would cause the project to not run and work.
 
 ### Document Proposal
 > You can also use the link: https://docs.google.com/document/d/1V4zpJ7ckBMIlKStSnmQOx1st1le2JmnTe-5FkInCuQ8/edit?usp=sharing
