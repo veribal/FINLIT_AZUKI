@@ -39,6 +39,6 @@ Run ```flutter pub get```
 
 ### Hi-Fidelity Mockups
 #### Note
-> If you want to try the game, please start on Frame 53 of our Hi-Fidelity.
+> If you want to try the game, please start on Frame 53 of our Hi-Fidelity Mockups.
 > 
 
