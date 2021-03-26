@@ -22,25 +22,25 @@ void main() {
   };
 
   runApp(
-  //   MyApp(
-  // ));
-    MaterialApp(
-      theme: ThemeData(
-        primarySwatch: Colors.indigo,
-    ),
-    initialRoute: '/gamehome',
-    routes: {
-      '/quizpage': (context) => Getjson(),
-      '/loading': (context) => Loading(),
-      // '/auth': (context) => Auth(),
-      '/home': (context) => Home(),
-      '/result': (context) => ResultModal(res: res,),
-      '/kitchen': (context) => Kitchen(),
-      '/gamehome': (context) => GameHome(),
-      '/desk': (context) => Desk()
-    },
-    )
-  );
+    MyApp(
+  ));
+  //   MaterialApp(
+  //     theme: ThemeData(
+  //       primarySwatch: Colors.indigo,
+  //   ),
+  //   initialRoute: '/gamehome',
+  //   routes: {
+  //     '/quizpage': (context) => Getjson(),
+  //     '/loading': (context) => Loading(),
+  //     // '/auth': (context) => Auth(),
+  //     '/home': (context) => Home(),
+  //     '/result': (context) => ResultModal(res: res,),
+  //     '/kitchen': (context) => Kitchen(),
+  //     '/gamehome': (context) => GameHome(),
+  //     '/desk': (context) => Desk()
+  //   },
+  //   )
+  // );
 }
 
 class MyApp extends StatelessWidget {
