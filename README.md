@@ -39,6 +39,7 @@ Run ```flutter pub get```
 
 
 ### Hi-Fidelity Mockups
+> https://www.figma.com/file/xRegiZEiNCDtO7bbJ0J4aA/Mobile-UI-kit-(Community)?node-id=0%3A1
 #### Note
 > If you want to try the game, please start on Frame 53 of our Hi-Fidelity Mockups.
 
